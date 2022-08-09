@@ -7,7 +7,19 @@
   \***********************/
 /***/ (() => {
 
+//Burger
+var burger = document.getElementById('iconID');
+var menu = document.querySelector('.nav-2');
 
+function burgerMenu() {
+  burger.addEventListener('click', function () {
+    burger.classList.toggle('active');
+    menu.classList.toggle('d-none');
+    menu.classList.toggle('inherit');
+  });
+}
+
+burgerMenu();
 
 /***/ }),
 
