@@ -10,3 +10,4 @@ Description:
 6. Config package.json
 7. Added Fonts (boxicons CDN), Bootstrap, Jquery
 8. Added Burger-menu JS
+9. GIST: https://gist.github.com/Romanch13/4e87cbfcc52977e4c9709f02d385d004
